@@ -297,7 +297,8 @@
          "created":"2014-12-10T16:16:29.192000Z",
          "edited":"2014-12-20T21:17:50.325000Z",
          "url":"https://swapi.co/api/people/10/"
-      }      {  
+      },  
+	  {  
          "name":"Anakin Skywalker",
          "height":"188",
          "mass":"84",
@@ -583,7 +584,8 @@
          "created":"2014-12-15T12:48:05.971000Z",
          "edited":"2014-12-20T21:17:50.347000Z",
          "url":"https://swapi.co/api/people/21/"
-      }      {  
+      },
+	  {  
          "name":"Boba Fett",
          "height":"183",
          "mass":"78.2",
@@ -846,7 +848,8 @@
          "created":"2014-12-18T11:26:18.541000Z",
          "edited":"2014-12-20T21:17:50.371000Z",
          "url":"https://swapi.co/api/people/31/"
-      }      {  
+      },
+	  {  
          "name":"Qui-Gon Jinn",
          "height":"193",
          "mass":"89",
@@ -1006,7 +1009,7 @@
          "url":"https://swapi.co/api/people/38/"
       },
       {  
-         "name":"Ric Olié",
+         "name":"Ric OliÃ©",
          "height":"183",
          "mass":"unknown",
          "hair_color":"brown",
@@ -1109,7 +1112,8 @@
          "created":"2014-12-19T17:55:43.348000Z",
          "edited":"2014-12-20T21:17:50.399000Z",
          "url":"https://swapi.co/api/people/42/"
-      }      {  
+      },
+	  {  
          "name":"Shmi Skywalker",
          "height":"163",
          "mass":"unknown",
@@ -1377,7 +1381,8 @@
          "created":"2014-12-20T10:18:57.202000Z",
          "edited":"2014-12-20T21:17:50.424000Z",
          "url":"https://swapi.co/api/people/53/"
-      }      {  
+      },
+	  {  
          "name":"Eeth Koth",
          "height":"171",
          "mass":"unknown",
@@ -1566,7 +1571,7 @@
          "url":"https://swapi.co/api/people/60/"
       },
       {  
-         "name":"Cordé",
+         "name":"CordÃ©",
          "height":"157",
          "mass":"unknown",
          "hair_color":"brown",
@@ -1643,7 +1648,8 @@
          "created":"2014-12-20T16:40:43.977000Z",
          "edited":"2014-12-20T21:17:50.453000Z",
          "url":"https://swapi.co/api/people/63/"
-      }      {  
+      },
+	  {  
          "name":"Luminara Unduli",
          "height":"170",
          "mass":"56.2",
@@ -1697,7 +1703,7 @@
          "url":"https://swapi.co/api/people/65/"
       },
       {  
-         "name":"Dormé",
+         "name":"DormÃ©",
          "height":"165",
          "mass":"unknown",
          "hair_color":"brown",
@@ -1905,7 +1911,8 @@
          "created":"2014-12-20T17:31:21.195000Z",
          "edited":"2014-12-20T21:17:50.474000Z",
          "url":"https://swapi.co/api/people/73/"
-      }      {  
+      },
+	  {  
          "name":"Jocasta Nu",
          "height":"167",
          "mass":"unknown",
@@ -2168,7 +2175,8 @@
          "created":"2014-12-20T20:18:37.619000Z",
          "edited":"2014-12-20T21:17:50.496000Z",
          "url":"https://swapi.co/api/people/82/"
-      }      {  
+      },
+	  {  
          "name":"Tion Medon",
          "height":"206",
          "mass":"80",
@@ -2325,7 +2333,7 @@
          "url":"https://swapi.co/api/people/88/"
       },
       {  
-         "name":"Padmé Amidala",
+         "name":"PadmÃ© Amidala",
          "height":"165",
          "mass":"45",
          "hair_color":"brown",
