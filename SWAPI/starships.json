@@ -17,8 +17,8 @@
             "starship_class": "Star dreadnought", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back", 
+                "Return of the Jedi"
             ], 
             "created": "2014-12-15T12:31:42.547000Z", 
             "edited": "2017-04-19T10:56:06.685592Z", 
@@ -40,7 +40,7 @@
             "starship_class": "landing craft", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ], 
             "created": "2014-12-10T15:48:00.586000Z", 
             "edited": "2014-12-22T17:35:44.431407Z", 
@@ -62,7 +62,7 @@
             "starship_class": "Deep Space Mobile Battlestation", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ], 
             "created": "2014-12-10T16:36:50.509000Z", 
             "edited": "2014-12-22T17:35:44.452589Z", 
@@ -83,16 +83,16 @@
             "MGLT": "75", 
             "starship_class": "Light freighter", 
             "pilots": [
-                "https://swapi.co/api/people/13/", 
-                "https://swapi.co/api/people/14/", 
-                "https://swapi.co/api/people/25/", 
-                "https://swapi.co/api/people/31/"
+                "Chewbacca", 
+                "Han Solo", 
+                "Lando Calrissian", 
+                "Nien Nunb"
             ], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/7/", 
-                "https://swapi.co/api/films/3/", 
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back", 
+                "The Force Awakens", 
+                "Return of the Jedi", 
+                "A New Hope"
             ], 
             "created": "2014-12-10T16:59:45.094000Z", 
             "edited": "2014-12-22T17:35:44.464156Z", 
@@ -114,9 +114,9 @@
             "starship_class": "assault starfighter", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/3/", 
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back", 
+                "Return of the Jedi", 
+                "A New Hope"
             ], 
             "created": "2014-12-12T11:00:39.817000Z", 
             "edited": "2014-12-22T17:35:44.479706Z", 
@@ -137,15 +137,15 @@
             "MGLT": "100", 
             "starship_class": "Starfighter", 
             "pilots": [
-                "https://swapi.co/api/people/1/", 
-                "https://swapi.co/api/people/9/", 
-                "https://swapi.co/api/people/18/", 
-                "https://swapi.co/api/people/19/"
+                "Luke Skywalker", 
+                "Biggs Darklighter", 
+                "Wedge Antilles", 
+                "Jek Tono Porkins"
             ], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/3/", 
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back", 
+                "Return of the Jedi", 
+                "A New Hope"
             ], 
             "created": "2014-12-12T11:19:05.340000Z", 
             "edited": "2014-12-22T17:35:44.491233Z", 
@@ -166,10 +166,10 @@
             "MGLT": "105", 
             "starship_class": "Starfighter", 
             "pilots": [
-                "https://swapi.co/api/people/4/"
+                "Darth Vader"
             ], 
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ], 
             "created": "2014-12-12T11:21:32.991000Z", 
             "edited": "2014-12-22T17:35:44.549047Z", 
@@ -190,11 +190,11 @@
             "MGLT": "70", 
             "starship_class": "Patrol craft", 
             "pilots": [
-                "https://swapi.co/api/people/22/"
+                "Boba Fett"
             ], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/5/"
+                "The Empire Strikes Back", 
+                "Attack of the Clones"
             ], 
             "created": "2014-12-15T13:00:56.332000Z", 
             "edited": "2014-12-22T17:35:44.716273Z", 
@@ -215,13 +215,13 @@
             "MGLT": "50", 
             "starship_class": "Armed government transport", 
             "pilots": [
-                "https://swapi.co/api/people/1/", 
-                "https://swapi.co/api/people/13/", 
-                "https://swapi.co/api/people/14/"
+                "Luke Skywalker", 
+                "Chewbacca", 
+                "Han Solo"
             ], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back", 
+                "Return of the Jedi"
             ], 
             "created": "2014-12-15T13:04:47.235000Z", 
             "edited": "2014-12-22T17:35:44.795405Z", 
@@ -243,8 +243,8 @@
             "starship_class": "Escort ship", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back", 
+                "Return of the Jedi"
             ], 
             "created": "2014-12-15T13:06:30.813000Z", 
             "edited": "2014-12-22T17:35:44.848329Z", 
@@ -266,7 +266,7 @@
             "starship_class": "Star Cruiser", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ], 
             "created": "2014-12-18T10:54:57.804000Z", 
             "edited": "2014-12-22T17:35:44.957852Z", 
@@ -287,10 +287,10 @@
             "MGLT": "120", 
             "starship_class": "Starfighter", 
             "pilots": [
-                "https://swapi.co/api/people/29/"
+                "Arvel Crynyd"
             ], 
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ], 
             "created": "2014-12-18T11:16:34.542000Z", 
             "edited": "2014-12-22T17:35:44.978754Z", 
@@ -312,7 +312,7 @@
             "starship_class": "Assault Starfighter", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ], 
             "created": "2014-12-18T11:18:04.763000Z", 
             "edited": "2014-12-22T17:35:45.011193Z", 
@@ -334,7 +334,7 @@
             "starship_class": "Space cruiser", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ], 
             "created": "2014-12-19T17:01:31.488000Z", 
             "edited": "2014-12-22T17:35:45.027308Z", 
@@ -355,13 +355,13 @@
             "MGLT": "unknown", 
             "starship_class": "Starfighter", 
             "pilots": [
-                "https://swapi.co/api/people/11/", 
-                "https://swapi.co/api/people/60/", 
-                "https://swapi.co/api/people/35/"
+                "Anakin Skywalker", 
+                "Gregar Typho", 
+                "Padmé Amidala"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/", 
-                "https://swapi.co/api/films/4/"
+                "Attack of the Clones", 
+                "The Phantom Menace"
             ], 
             "created": "2014-12-19T17:39:17.582000Z", 
             "edited": "2014-12-22T17:35:45.079452Z", 
@@ -382,10 +382,10 @@
             "MGLT": "unknown", 
             "starship_class": "yacht", 
             "pilots": [
-                "https://swapi.co/api/people/39/"
+                "Ric Olié"
             ], 
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ], 
             "created": "2014-12-19T17:45:03.506000Z", 
             "edited": "2014-12-22T17:35:45.091925Z", 
@@ -406,10 +406,10 @@
             "MGLT": "unknown", 
             "starship_class": "Space Transport", 
             "pilots": [
-                "https://swapi.co/api/people/44/"
+                "Darth Maul"
             ], 
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ], 
             "created": "2014-12-20T09:39:56.116000Z", 
             "edited": "2014-12-22T17:35:45.105522Z", 
@@ -431,7 +431,7 @@
             "starship_class": "Diplomatic barge", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ], 
             "created": "2014-12-20T11:05:51.237000Z", 
             "edited": "2014-12-22T17:35:45.124386Z", 
@@ -453,7 +453,7 @@
             "starship_class": "freighter", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ], 
             "created": "2014-12-20T17:24:23.509000Z", 
             "edited": "2014-12-22T17:35:45.135987Z", 
@@ -474,12 +474,12 @@
             "MGLT": "unknown", 
             "starship_class": "Starfighter", 
             "pilots": [
-                "https://swapi.co/api/people/10/", 
-                "https://swapi.co/api/people/58/"
+                "Obi-Wan Kenobi", 
+                "Plo Koon"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/", 
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones", 
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T17:35:23.906000Z", 
             "edited": "2014-12-22T17:35:45.147746Z", 
@@ -500,10 +500,10 @@
             "MGLT": "unknown", 
             "starship_class": "yacht", 
             "pilots": [
-                "https://swapi.co/api/people/35/"
+                "Padmé Amidala"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ], 
             "created": "2014-12-20T17:46:46.847000Z", 
             "edited": "2014-12-22T17:35:45.158969Z", 
@@ -525,9 +525,9 @@
             "starship_class": "Star Destroyer", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/3/", 
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back", 
+                "Return of the Jedi", 
+                "A New Hope"
             ], 
             "created": "2014-12-10T15:08:19.848000Z", 
             "edited": "2014-12-22T17:35:44.410941Z", 
@@ -548,11 +548,11 @@
             "MGLT": "unknown", 
             "starship_class": "capital ship", 
             "pilots": [
-                "https://swapi.co/api/people/10/", 
-                "https://swapi.co/api/people/11/"
+                "Obi-Wan Kenobi", 
+                "Anakin Skywalker"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T19:40:21.902000Z", 
             "edited": "2014-12-22T17:35:45.195165Z", 
@@ -574,7 +574,7 @@
             "starship_class": "transport", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T19:48:40.409000Z", 
             "edited": "2014-12-22T17:35:45.208584Z", 
@@ -595,10 +595,10 @@
             "MGLT": "unknown", 
             "starship_class": "fighter", 
             "pilots": [
-                "https://swapi.co/api/people/86/"
+                "Poe Dameron"
             ], 
             "films": [
-                "https://swapi.co/api/films/7/"
+                "The Force Awakens"
             ], 
             "created": "2015-04-17T06:58:50.614475Z", 
             "edited": "2015-04-17T06:58:50.614528Z", 
@@ -620,8 +620,8 @@
             "starship_class": "Medium transport", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back", 
+                "Return of the Jedi"
             ], 
             "created": "2014-12-15T12:34:52.264000Z", 
             "edited": "2014-12-22T17:35:44.680838Z", 
@@ -643,9 +643,9 @@
             "starship_class": "Droid control ship", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/5/", 
-                "https://swapi.co/api/films/4/", 
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones", 
+                "The Phantom Menace", 
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-19T17:04:06.323000Z", 
             "edited": "2014-12-22T17:35:45.042900Z", 
@@ -667,7 +667,7 @@
             "starship_class": "assault ship", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ], 
             "created": "2014-12-20T18:08:42.926000Z", 
             "edited": "2014-12-22T17:35:45.171653Z", 
@@ -689,7 +689,7 @@
             "starship_class": "yacht", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ], 
             "created": "2014-12-20T18:37:56.969000Z", 
             "edited": "2014-12-22T17:35:45.183075Z", 
@@ -711,7 +711,7 @@
             "starship_class": "star destroyer", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T19:52:56.232000Z", 
             "edited": "2014-12-22T17:35:45.224540Z", 
@@ -732,11 +732,11 @@
             "MGLT": "unknown", 
             "starship_class": "yacht", 
             "pilots": [
-                "https://swapi.co/api/people/10/", 
-                "https://swapi.co/api/people/35/"
+                "Obi-Wan Kenobi", 
+                "Padmé Amidala"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T19:55:15.396000Z", 
             "edited": "2014-12-22T17:35:45.258859Z", 
@@ -757,11 +757,11 @@
             "MGLT": "unknown", 
             "starship_class": "starfighter", 
             "pilots": [
-                "https://swapi.co/api/people/10/", 
-                "https://swapi.co/api/people/11/"
+                "Obi-Wan Kenobi", 
+                "Anakin Skywalker"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T19:56:57.468000Z", 
             "edited": "2014-12-22T17:35:45.272349Z", 
@@ -783,7 +783,7 @@
             "starship_class": "starfighter", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T20:03:48.603000Z", 
             "edited": "2014-12-22T17:35:45.287214Z", 
@@ -804,11 +804,11 @@
             "MGLT": "unknown", 
             "starship_class": "starfighter", 
             "pilots": [
-                "https://swapi.co/api/people/10/", 
-                "https://swapi.co/api/people/79/"
+                "Obi-Wan Kenobi", 
+                "Grievous"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T20:38:05.031000Z", 
             "edited": "2014-12-22T17:35:45.381900Z", 
@@ -830,7 +830,7 @@
             "starship_class": "starfighter", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T20:43:04.349000Z", 
             "edited": "2014-12-22T17:35:45.396711Z", 
@@ -852,9 +852,9 @@
             "starship_class": "corvette", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/6/", 
-                "https://swapi.co/api/films/3/", 
-                "https://swapi.co/api/films/1/"
+                "Revenge of the Sith", 
+                "Return of the Jedi", 
+                "A New Hope"
             ], 
             "created": "2014-12-10T14:20:33.369000Z", 
             "edited": "2014-12-22T17:35:45.408368Z", 
@@ -876,7 +876,7 @@
             "starship_class": "cruiser", 
             "pilots": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-20T20:07:11.538000Z", 
             "edited": "2017-04-19T10:53:32.700283Z", 

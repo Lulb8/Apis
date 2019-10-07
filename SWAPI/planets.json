@@ -12,13 +12,13 @@
             "surface_water": "40", 
             "population": "2000000000", 
             "residents": [
-                "https://swapi.co/api/people/5/", 
-                "https://swapi.co/api/people/68/", 
-                "https://swapi.co/api/people/81/"
+                "Leia Organa", 
+                "Bail Prestor Organa", 
+                "Raymus Antilles"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/", 
-                "https://swapi.co/api/films/1/"
+                "Revenge of the Sith", 
+                "A New Hope"
             ], 
             "created": "2014-12-10T11:35:48.479000Z", 
             "edited": "2014-12-20T20:58:18.420000Z", 
@@ -36,7 +36,7 @@
             "population": "1000", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ], 
             "created": "2014-12-10T11:37:19.144000Z", 
             "edited": "2014-12-20T20:58:18.421000Z", 
@@ -54,7 +54,7 @@
             "population": "unknown", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/2/"
+                "The Empire Strikes Back"
             ], 
             "created": "2014-12-10T11:39:13.934000Z", 
             "edited": "2014-12-20T20:58:18.423000Z", 
@@ -72,9 +72,9 @@
             "population": "unknown", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/2/", 
-                "https://swapi.co/api/films/6/", 
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back", 
+                "Revenge of the Sith", 
+                "Return of the Jedi"
             ], 
             "created": "2014-12-10T11:42:22.590000Z", 
             "edited": "2014-12-20T20:58:18.425000Z", 
@@ -91,10 +91,10 @@
             "surface_water": "0", 
             "population": "6000000", 
             "residents": [
-                "https://swapi.co/api/people/26/"
+                "Lobot"
             ], 
             "films": [
-                "https://swapi.co/api/films/2/"
+                "The Empire Strikes Back"
             ], 
             "created": "2014-12-10T11:43:55.240000Z", 
             "edited": "2014-12-20T20:58:18.427000Z", 
@@ -111,10 +111,10 @@
             "surface_water": "8", 
             "population": "30000000", 
             "residents": [
-                "https://swapi.co/api/people/30/"
+                "Wicket Systri Warrick"
             ], 
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ], 
             "created": "2014-12-10T11:50:29.349000Z", 
             "edited": "2014-12-20T20:58:18.429000Z", 
@@ -131,23 +131,23 @@
             "surface_water": "12", 
             "population": "4500000000", 
             "residents": [
-                "https://swapi.co/api/people/3/", 
-                "https://swapi.co/api/people/21/", 
-                "https://swapi.co/api/people/36/", 
-                "https://swapi.co/api/people/37/", 
-                "https://swapi.co/api/people/38/", 
-                "https://swapi.co/api/people/39/", 
-                "https://swapi.co/api/people/42/", 
-                "https://swapi.co/api/people/60/", 
-                "https://swapi.co/api/people/61/", 
-                "https://swapi.co/api/people/66/", 
-                "https://swapi.co/api/people/35/"
+                "R2-D2", 
+                "Palpatine", 
+                "Jar Jar Binks", 
+                "Roos Tarpals", 
+                "Rugor Nass", 
+                "Ric Olié", 
+                "Quarsh Panaka", 
+                "Gregar Typho", 
+                "Cordé", 
+                "Dormé", 
+                "Padmé Amidala"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/", 
-                "https://swapi.co/api/films/4/", 
-                "https://swapi.co/api/films/6/", 
-                "https://swapi.co/api/films/3/"
+                "Attack of the Clones", 
+                "The Phantom Menace", 
+                "Revenge of the Sith", 
+                "Return of the Jedi"
             ], 
             "created": "2014-12-10T11:52:31.066000Z", 
             "edited": "2014-12-20T20:58:18.430000Z", 
@@ -164,15 +164,15 @@
             "surface_water": "unknown", 
             "population": "1000000000000", 
             "residents": [
-                "https://swapi.co/api/people/34/", 
-                "https://swapi.co/api/people/55/", 
-                "https://swapi.co/api/people/74/"
+                "Finis Valorum", 
+                "Adi Gallia", 
+                "Jocasta Nu"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/", 
-                "https://swapi.co/api/films/4/", 
-                "https://swapi.co/api/films/6/", 
-                "https://swapi.co/api/films/3/"
+                "Attack of the Clones", 
+                "The Phantom Menace", 
+                "Revenge of the Sith", 
+                "Return of the Jedi"
             ], 
             "created": "2014-12-10T11:54:13.921000Z", 
             "edited": "2014-12-20T20:58:18.432000Z", 
@@ -189,12 +189,12 @@
             "surface_water": "100", 
             "population": "1000000000", 
             "residents": [
-                "https://swapi.co/api/people/22/", 
-                "https://swapi.co/api/people/72/", 
-                "https://swapi.co/api/people/73/"
+                "Boba Fett", 
+                "Lama Su", 
+                "Taun We"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ], 
             "created": "2014-12-10T12:45:06.577000Z", 
             "edited": "2014-12-20T20:58:18.434000Z", 
@@ -211,10 +211,10 @@
             "surface_water": "5", 
             "population": "100000000000", 
             "residents": [
-                "https://swapi.co/api/people/63/"
+                "Poggle the Lesser"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ], 
             "created": "2014-12-10T12:47:22.350000Z", 
             "edited": "2014-12-20T20:58:18.437000Z", 
@@ -231,10 +231,10 @@
             "surface_water": "0.9", 
             "population": "95000000", 
             "residents": [
-                "https://swapi.co/api/people/83/"
+                "Tion Medon"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T12:49:01.491000Z", 
             "edited": "2014-12-20T20:58:18.439000Z", 
@@ -252,7 +252,7 @@
             "population": "20000", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T12:50:16.526000Z", 
             "edited": "2014-12-20T20:58:18.440000Z", 
@@ -269,11 +269,11 @@
             "surface_water": "60", 
             "population": "45000000", 
             "residents": [
-                "https://swapi.co/api/people/13/", 
-                "https://swapi.co/api/people/80/"
+                "Chewbacca", 
+                "Tarfful"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T13:32:00.124000Z", 
             "edited": "2014-12-20T20:58:18.442000Z", 
@@ -291,7 +291,7 @@
             "population": "1000000", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T13:33:46.405000Z", 
             "edited": "2014-12-20T20:58:18.444000Z", 
@@ -309,7 +309,7 @@
             "population": "19000000", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T13:43:39.139000Z", 
             "edited": "2014-12-20T20:58:18.446000Z", 
@@ -327,7 +327,7 @@
             "population": "8500000", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T13:44:50.397000Z", 
             "edited": "2014-12-20T20:58:18.447000Z", 
@@ -344,10 +344,10 @@
             "surface_water": "unknown", 
             "population": "10000000", 
             "residents": [
-                "https://swapi.co/api/people/33/"
+                "Nute Gunray"
             ], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T13:46:28.704000Z", 
             "edited": "2014-12-20T20:58:18.449000Z", 
@@ -365,7 +365,7 @@
             "population": "1400000000", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ], 
             "created": "2014-12-10T13:47:46.874000Z", 
             "edited": "2014-12-20T20:58:18.450000Z", 
@@ -382,7 +382,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/10/"
+                "Obi-Wan Kenobi"
             ], 
             "films": [], 
             "created": "2014-12-10T16:16:26.566000Z", 
@@ -400,7 +400,7 @@
             "surface_water": "unknown", 
             "population": "22000000000", 
             "residents": [
-                "https://swapi.co/api/people/12/"
+                "Wilhuff Tarkin"
             ], 
             "films": [], 
             "created": "2014-12-10T16:26:54.384000Z", 
@@ -418,8 +418,8 @@
             "surface_water": "70", 
             "population": "3000000000", 
             "residents": [
-                "https://swapi.co/api/people/14/", 
-                "https://swapi.co/api/people/18/"
+                "Han Solo", 
+                "Wedge Antilles"
             ], 
             "films": [], 
             "created": "2014-12-10T16:49:12.453000Z", 
@@ -437,7 +437,7 @@
             "surface_water": "60", 
             "population": "1300000000", 
             "residents": [
-                "https://swapi.co/api/people/15/"
+                "Greedo"
             ], 
             "films": [], 
             "created": "2014-12-10T17:03:28.110000Z", 
@@ -455,7 +455,7 @@
             "surface_water": "unknown", 
             "population": "7000000000", 
             "residents": [
-                "https://swapi.co/api/people/16/"
+                "Jabba Desilijic Tiure"
             ], 
             "films": [], 
             "created": "2014-12-10T17:11:29.452000Z", 
@@ -489,7 +489,7 @@
             "surface_water": "98", 
             "population": "62000000", 
             "residents": [
-                "https://swapi.co/api/people/19/"
+                "Jek Tono Porkins"
             ], 
             "films": [], 
             "created": "2014-12-12T11:16:55.078000Z", 
@@ -508,7 +508,7 @@
             "population": "4000000000", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/2/"
+                "The Empire Strikes Back"
             ], 
             "created": "2014-12-15T12:23:41.661000Z", 
             "edited": "2014-12-20T20:58:18.464000Z", 
@@ -525,16 +525,16 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/20/", 
-                "https://swapi.co/api/people/23/", 
-                "https://swapi.co/api/people/29/", 
-                "https://swapi.co/api/people/32/", 
-                "https://swapi.co/api/people/75/", 
-                "https://swapi.co/api/people/84/", 
-                "https://swapi.co/api/people/85/", 
-                "https://swapi.co/api/people/86/", 
-                "https://swapi.co/api/people/87/", 
-                "https://swapi.co/api/people/88/"
+                "Yoda", 
+                "IG-88", 
+                "Arvel Crynyd", 
+                "Qui-Gon Jinn", 
+                "R4-P17", 
+                "Finn", 
+                "Rey", 
+                "Poe Dameron", 
+                "BB8", 
+                "Captain Phasma"
             ], 
             "films": [], 
             "created": "2014-12-15T12:25:59.569000Z", 
@@ -552,7 +552,7 @@
             "surface_water": "unknown", 
             "population": "42000000", 
             "residents": [
-                "https://swapi.co/api/people/24/"
+                "Bossk"
             ], 
             "films": [], 
             "created": "2014-12-15T12:53:47.695000Z", 
@@ -570,7 +570,7 @@
             "surface_water": "unknown", 
             "population": "300000000", 
             "residents": [
-                "https://swapi.co/api/people/25/"
+                "Lando Calrissian"
             ], 
             "films": [], 
             "created": "2014-12-15T12:56:31.121000Z", 
@@ -588,7 +588,7 @@
             "surface_water": "100", 
             "population": "27000000000", 
             "residents": [
-                "https://swapi.co/api/people/27/"
+                "Ackbar"
             ], 
             "films": [], 
             "created": "2014-12-18T11:07:01.792000Z", 
@@ -606,7 +606,7 @@
             "surface_water": "40", 
             "population": "1200000000", 
             "residents": [
-                "https://swapi.co/api/people/28/"
+                "Mon Mothma"
             ], 
             "films": [], 
             "created": "2014-12-18T11:11:51.872000Z", 
@@ -624,7 +624,7 @@
             "surface_water": "5", 
             "population": "18500000000", 
             "residents": [
-                "https://swapi.co/api/people/31/"
+                "Nien Nunb"
             ], 
             "films": [], 
             "created": "2014-12-18T11:25:40.243000Z", 
@@ -642,7 +642,7 @@
             "surface_water": "unknown", 
             "population": "11000000", 
             "residents": [
-                "https://swapi.co/api/people/40/"
+                "Watto"
             ], 
             "films": [], 
             "created": "2014-12-19T17:47:54.403000Z", 
@@ -660,7 +660,7 @@
             "surface_water": "unknown", 
             "population": "2000000000", 
             "residents": [
-                "https://swapi.co/api/people/41/"
+                "Sebulba"
             ], 
             "films": [], 
             "created": "2014-12-19T17:52:13.106000Z", 
@@ -678,7 +678,7 @@
             "surface_water": "unknown", 
             "population": "5200", 
             "residents": [
-                "https://swapi.co/api/people/44/"
+                "Darth Maul"
             ], 
             "films": [], 
             "created": "2014-12-19T18:00:40.142000Z", 
@@ -696,8 +696,8 @@
             "surface_water": "5", 
             "population": "1500000000", 
             "residents": [
-                "https://swapi.co/api/people/45/", 
-                "https://swapi.co/api/people/46/"
+                "Bib Fortuna", 
+                "Ayla Secura"
             ], 
             "films": [], 
             "created": "2014-12-20T09:46:25.740000Z", 
@@ -715,7 +715,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/47/"
+                "Ratts Tyerell"
             ], 
             "films": [], 
             "created": "2014-12-20T09:52:23.452000Z", 
@@ -733,7 +733,7 @@
             "surface_water": "unknown", 
             "population": "421000000", 
             "residents": [
-                "https://swapi.co/api/people/48/"
+                "Dud Bolt"
             ], 
             "films": [], 
             "created": "2014-12-20T09:56:58.874000Z", 
@@ -751,7 +751,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/49/"
+                "Gasgano"
             ], 
             "films": [], 
             "created": "2014-12-20T10:01:37.395000Z", 
@@ -769,7 +769,7 @@
             "surface_water": "unknown", 
             "population": "0", 
             "residents": [
-                "https://swapi.co/api/people/50/"
+                "Ben Quadinaros"
             ], 
             "films": [], 
             "created": "2014-12-20T10:07:29.578000Z", 
@@ -787,7 +787,7 @@
             "surface_water": "unknown", 
             "population": "705300", 
             "residents": [
-                "https://swapi.co/api/people/51/"
+                "Mace Windu"
             ], 
             "films": [], 
             "created": "2014-12-20T10:12:28.980000Z", 
@@ -805,7 +805,7 @@
             "surface_water": "20", 
             "population": "450000000", 
             "residents": [
-                "https://swapi.co/api/people/52/"
+                "Ki-Adi-Mundi"
             ], 
             "films": [], 
             "created": "2014-12-20T10:14:48.178000Z", 
@@ -823,7 +823,7 @@
             "surface_water": "80", 
             "population": "500000000", 
             "residents": [
-                "https://swapi.co/api/people/53/"
+                "Kit Fisto"
             ], 
             "films": [], 
             "created": "2014-12-20T10:18:26.110000Z", 
@@ -841,7 +841,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/54/"
+                "Eeth Koth"
             ], 
             "films": [], 
             "created": "2014-12-20T10:26:05.788000Z", 
@@ -875,7 +875,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/56/"
+                "Saesee Tiin"
             ], 
             "films": [], 
             "created": "2014-12-20T10:31:32.413000Z", 
@@ -893,7 +893,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/57/"
+                "Yarael Poof"
             ], 
             "films": [], 
             "created": "2014-12-20T10:34:08.249000Z", 
@@ -911,7 +911,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/58/"
+                "Plo Koon"
             ], 
             "films": [], 
             "created": "2014-12-20T10:48:36.141000Z", 
@@ -929,7 +929,7 @@
             "surface_water": "unknown", 
             "population": "3500000000", 
             "residents": [
-                "https://swapi.co/api/people/59/"
+                "Mas Amedda"
             ], 
             "films": [], 
             "created": "2014-12-20T10:52:51.524000Z", 
@@ -947,8 +947,8 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/64/", 
-                "https://swapi.co/api/people/65/"
+                "Luminara Unduli", 
+                "Barriss Offee"
             ], 
             "films": [], 
             "created": "2014-12-20T16:44:46.318000Z", 
@@ -966,7 +966,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/67/"
+                "Dooku"
             ], 
             "films": [], 
             "created": "2014-12-20T16:52:13.357000Z", 
@@ -984,7 +984,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/69/"
+                "Jango Fett"
             ], 
             "films": [], 
             "created": "2014-12-20T16:54:39.909000Z", 
@@ -1002,7 +1002,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/70/"
+                "Zam Wesell"
             ], 
             "films": [], 
             "created": "2014-12-20T16:56:37.250000Z", 
@@ -1020,7 +1020,7 @@
             "surface_water": "100", 
             "population": "500000000", 
             "residents": [
-                "https://swapi.co/api/people/71/"
+                "Dexter Jettster"
             ], 
             "films": [], 
             "created": "2014-12-20T17:27:41.286000Z", 
@@ -1038,7 +1038,7 @@
             "surface_water": "unknown", 
             "population": "500000000000", 
             "residents": [
-                "https://swapi.co/api/people/76/"
+                "Wat Tambor"
             ], 
             "films": [], 
             "created": "2014-12-20T17:50:47.864000Z", 
@@ -1056,7 +1056,7 @@
             "surface_water": "25", 
             "population": "5000000000", 
             "residents": [
-                "https://swapi.co/api/people/77/"
+                "San Hill"
             ], 
             "films": [], 
             "created": "2014-12-20T17:57:47.420000Z", 
@@ -1074,7 +1074,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/78/"
+                "Shaak Ti"
             ], 
             "films": [], 
             "created": "2014-12-20T18:43:14.049000Z", 
@@ -1092,7 +1092,7 @@
             "surface_water": "unknown", 
             "population": "4000000000", 
             "residents": [
-                "https://swapi.co/api/people/79/"
+                "Grievous"
             ], 
             "films": [], 
             "created": "2014-12-20T19:43:51.278000Z", 
@@ -1110,7 +1110,7 @@
             "surface_water": "unknown", 
             "population": "unknown", 
             "residents": [
-                "https://swapi.co/api/people/82/"
+                "Sly Moore"
             ], 
             "films": [], 
             "created": "2014-12-20T20:18:36.256000Z", 
@@ -1128,23 +1128,23 @@
             "surface_water": "1", 
             "population": "200000", 
             "residents": [
-                "https://swapi.co/api/people/1/", 
-                "https://swapi.co/api/people/2/", 
-                "https://swapi.co/api/people/4/", 
-                "https://swapi.co/api/people/6/", 
-                "https://swapi.co/api/people/7/", 
-                "https://swapi.co/api/people/8/", 
-                "https://swapi.co/api/people/9/", 
-                "https://swapi.co/api/people/11/", 
-                "https://swapi.co/api/people/43/", 
-                "https://swapi.co/api/people/62/"
+                "Luke Skywalker", 
+                "C-3PO", 
+                "Darth Vader", 
+                "Owen Lars", 
+                "Beru Whitesun lars", 
+                "R5-D4", 
+                "Biggs Darklighter", 
+                "Anakin Skywalker", 
+                "Shmi Skywalker", 
+                "Cliegg Lars"
             ], 
             "films": [
-                "https://swapi.co/api/films/5/", 
-                "https://swapi.co/api/films/4/", 
-                "https://swapi.co/api/films/6/", 
-                "https://swapi.co/api/films/3/", 
-                "https://swapi.co/api/films/1/"
+                "Attack of the Clones", 
+                "The Phantom Menace", 
+                "Revenge of the Sith", 
+                "Return of the Jedi", 
+                "A New Hope"
             ], 
             "created": "2014-12-09T13:50:49.641000Z", 
             "edited": "2014-12-21T20:48:04.175778Z", 
@@ -1162,7 +1162,7 @@
             "population": "unknown", 
             "residents": [], 
             "films": [
-                "https://swapi.co/api/films/7/"
+                "The Force Awakens"
             ], 
             "created": "2015-04-17T06:55:57.556495Z", 
             "edited": "2015-04-17T06:55:57.556551Z", 
