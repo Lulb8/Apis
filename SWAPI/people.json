@@ -12,24 +12,24 @@
             "eye_color": "blue",
             "birth_year": "19BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/",
-                "https://swapi.co/api/films/7/"
+                "The Empire Strikes Back",
+                "Revenge of the Sith",
+                "Return of the Jedi",
+                "A New Hope",
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/14/",
-                "https://swapi.co/api/vehicles/30/"
+                "Snowspeeder",
+                "Imperial Speeder Bike"
             ],
             "starships": [
-                "https://swapi.co/api/starships/12/",
-                "https://swapi.co/api/starships/22/"
+                "X-wing",
+                "Imperial shuttle"
             ],
             "created": "2014-12-09T13:50:51.644000Z",
             "edited": "2014-12-20T21:17:56.891000Z",
@@ -46,17 +46,17 @@
             "eye_color": "yellow",
             "birth_year": "112BBY",
             "gender": "n/a",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back",
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith",
+                "Return of the Jedi",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/2/"
+                "Droid"
             ],
             "vehicles": [],
             "starships": [],
@@ -75,18 +75,18 @@
             "eye_color": "red",
             "birth_year": "33BBY",
             "gender": "n/a",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/",
-                "https://swapi.co/api/films/7/"
+                "The Empire Strikes Back",
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith",
+                "Return of the Jedi",
+                "A New Hope",
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/2/"
+                "Droid"
             ],
             "vehicles": [],
             "starships": [],
@@ -105,19 +105,19 @@
             "eye_color": "yellow",
             "birth_year": "41.9BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back",
+                "Revenge of the Sith",
+                "Return of the Jedi",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/13/"
+                "TIE Advanced x1"
             ],
             "created": "2014-12-10T15:18:20.704000Z",
             "edited": "2014-12-20T21:17:50.313000Z",
@@ -134,19 +134,19 @@
             "eye_color": "brown",
             "birth_year": "19BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/2/",
+            "homeworld": "Alderaan",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/",
-                "https://swapi.co/api/films/7/"
+                "The Empire Strikes Back",
+                "Revenge of the Sith",
+                "Return of the Jedi",
+                "A New Hope",
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/30/"
+                "Imperial Speeder Bike"
             ],
             "starships": [],
             "created": "2014-12-10T15:20:09.791000Z",
@@ -164,14 +164,14 @@
             "eye_color": "blue",
             "birth_year": "52BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/1/"
+                "Attack of the Clones",
+                "Revenge of the Sith",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -190,14 +190,14 @@
             "eye_color": "blue",
             "birth_year": "47BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/1/"
+                "Attack of the Clones",
+                "Revenge of the Sith",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -216,12 +216,12 @@
             "eye_color": "red",
             "birth_year": "unknown",
             "gender": "n/a",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/2/"
+                "Droid"
             ],
             "vehicles": [],
             "starships": [],
@@ -240,16 +240,16 @@
             "eye_color": "brown",
             "birth_year": "24BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/12/"
+                "X-wing"
             ],
             "created": "2014-12-10T15:59:50.509000Z",
             "edited": "2014-12-20T21:17:50.323000Z",
@@ -266,27 +266,27 @@
             "eye_color": "blue-gray",
             "birth_year": "57BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/20/",
+            "homeworld": "Stewjon",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back",
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith",
+                "Return of the Jedi",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/38/"
+                "Tribubble bongo"
             ],
             "starships": [
-                "https://swapi.co/api/starships/48/",
-                "https://swapi.co/api/starships/59/",
-                "https://swapi.co/api/starships/64/",
-                "https://swapi.co/api/starships/65/",
-                "https://swapi.co/api/starships/74/"
+                "Jedi starfighter",
+                "Trade Federation cruiser",
+                "Naboo star skiff",
+                "Jedi Interceptor",
+                "Belbullab-22 starfighter"
             ],
             "created": "2014-12-10T16:16:29.192000Z",
             "edited": "2014-12-20T21:17:50.325000Z",
@@ -303,23 +303,23 @@
             "eye_color": "blue",
             "birth_year": "41.9BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/44/",
-                "https://swapi.co/api/vehicles/46/"
+                "Zephyr-G swoop bike",
+                "XJ-6 airspeeder"
             ],
             "starships": [
-                "https://swapi.co/api/starships/59/",
-                "https://swapi.co/api/starships/65/",
-                "https://swapi.co/api/starships/39/"
+                "Trade Federation cruiser",
+                "Jedi Interceptor",
+                "Naboo fighter"
             ],
             "created": "2014-12-10T16:20:44.310000Z",
             "edited": "2014-12-20T21:17:50.327000Z",
@@ -336,13 +336,13 @@
             "eye_color": "blue",
             "birth_year": "64BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/21/",
+            "homeworld": "Eriadu",
             "films": [
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/1/"
+                "Revenge of the Sith",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -361,23 +361,23 @@
             "eye_color": "blue",
             "birth_year": "200BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/14/",
+            "homeworld": "Kashyyyk",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/",
-                "https://swapi.co/api/films/7/"
+                "The Empire Strikes Back",
+                "Revenge of the Sith",
+                "Return of the Jedi",
+                "A New Hope",
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/3/"
+                "Wookiee"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/19/"
+                "AT-ST"
             ],
             "starships": [
-                "https://swapi.co/api/starships/10/",
-                "https://swapi.co/api/starships/22/"
+                "Millennium Falcon",
+                "Imperial shuttle"
             ],
             "created": "2014-12-10T16:42:45.066000Z",
             "edited": "2014-12-20T21:17:50.332000Z",
@@ -394,20 +394,20 @@
             "eye_color": "brown",
             "birth_year": "29BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/22/",
+            "homeworld": "Corellia",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/",
-                "https://swapi.co/api/films/7/"
+                "The Empire Strikes Back",
+                "Return of the Jedi",
+                "A New Hope",
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/10/",
-                "https://swapi.co/api/starships/22/"
+                "Millennium Falcon",
+                "Imperial shuttle"
             ],
             "created": "2014-12-10T16:49:14.582000Z",
             "edited": "2014-12-20T21:17:50.334000Z",
@@ -424,12 +424,12 @@
             "eye_color": "black",
             "birth_year": "44BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/23/",
+            "homeworld": "Rodia",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/4/"
+                "Rodian"
             ],
             "vehicles": [],
             "starships": [],
@@ -448,14 +448,14 @@
             "eye_color": "orange",
             "birth_year": "600BBY",
             "gender": "hermaphrodite",
-            "homeworld": "https://swapi.co/api/planets/24/",
+            "homeworld": "Nal Hutta",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "The Phantom Menace",
+                "Return of the Jedi",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/5/"
+                "Hutt"
             ],
             "vehicles": [],
             "starships": [],
@@ -474,20 +474,20 @@
             "eye_color": "hazel",
             "birth_year": "21BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/22/",
+            "homeworld": "Corellia",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "The Empire Strikes Back",
+                "Return of the Jedi",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/14/"
+                "Snowspeeder"
             ],
             "starships": [
-                "https://swapi.co/api/starships/12/"
+                "X-wing"
             ],
             "created": "2014-12-12T11:08:06.469000Z",
             "edited": "2014-12-20T21:17:50.341000Z",
@@ -504,16 +504,16 @@
             "eye_color": "blue",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/26/",
+            "homeworld": "Bestine IV",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/12/"
+                "X-wing"
             ],
             "created": "2014-12-12T11:16:56.569000Z",
             "edited": "2014-12-20T21:17:50.343000Z",
@@ -530,16 +530,16 @@
             "eye_color": "brown",
             "birth_year": "896BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back",
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith",
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/6/"
+                "Yoda's species"
             ],
             "vehicles": [],
             "starships": [],
@@ -558,16 +558,16 @@
             "eye_color": "yellow",
             "birth_year": "82BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back",
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith",
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -586,18 +586,18 @@
             "eye_color": "brown",
             "birth_year": "31.5BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/10/",
+            "homeworld": "Kamino",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back",
+                "Attack of the Clones",
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/21/"
+                "Slave 1"
             ],
             "created": "2014-12-15T12:49:32.457000Z",
             "edited": "2014-12-20T21:17:50.349000Z",
@@ -614,12 +614,12 @@
             "eye_color": "red",
             "birth_year": "15BBY",
             "gender": "none",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "The Empire Strikes Back"
             ],
             "species": [
-                "https://swapi.co/api/species/2/"
+                "Droid"
             ],
             "vehicles": [],
             "starships": [],
@@ -638,12 +638,12 @@
             "eye_color": "red",
             "birth_year": "53BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/29/",
+            "homeworld": "Trandosha",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "The Empire Strikes Back"
             ],
             "species": [
-                "https://swapi.co/api/species/7/"
+                "Trandoshan"
             ],
             "vehicles": [],
             "starships": [],
@@ -662,17 +662,17 @@
             "eye_color": "brown",
             "birth_year": "31BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/30/",
+            "homeworld": "Socorro",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "The Empire Strikes Back",
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/10/"
+                "Millennium Falcon"
             ],
             "created": "2014-12-15T12:56:32.683000Z",
             "edited": "2014-12-20T21:17:50.357000Z",
@@ -689,12 +689,12 @@
             "eye_color": "blue",
             "birth_year": "37BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/6/",
+            "homeworld": "Bespin",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "The Empire Strikes Back"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -713,13 +713,13 @@
             "eye_color": "orange",
             "birth_year": "41BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/31/",
+            "homeworld": "Mon Cala",
             "films": [
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/7/"
+                "Return of the Jedi",
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/8/"
+                "Mon Calamari"
             ],
             "vehicles": [],
             "starships": [],
@@ -738,12 +738,12 @@
             "eye_color": "blue",
             "birth_year": "48BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/32/",
+            "homeworld": "Chandrila",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -762,16 +762,16 @@
             "eye_color": "brown",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/28/"
+                "A-wing"
             ],
             "created": "2014-12-18T11:16:33.020000Z",
             "edited": "2014-12-20T21:17:50.367000Z",
@@ -788,12 +788,12 @@
             "eye_color": "brown",
             "birth_year": "8BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/7/",
+            "homeworld": "Endor",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/9/"
+                "Ewok"
             ],
             "vehicles": [],
             "starships": [],
@@ -812,16 +812,16 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/33/",
+            "homeworld": "Sullust",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/10/"
+                "Sullustan"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/10/"
+                "Millennium Falcon"
             ],
             "created": "2014-12-18T11:26:18.541000Z",
             "edited": "2014-12-20T21:17:50.371000Z",
@@ -838,15 +838,15 @@
             "eye_color": "blue",
             "birth_year": "92BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/38/"
+                "Tribubble bongo"
             ],
             "starships": [],
             "created": "2014-12-19T16:54:53.618000Z",
@@ -864,14 +864,14 @@
             "eye_color": "red",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/18/",
+            "homeworld": "Cato Neimoidia",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/11/"
+                "Neimodian"
             ],
             "vehicles": [],
             "starships": [],
@@ -890,12 +890,12 @@
             "eye_color": "blue",
             "birth_year": "91BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/9/",
+            "homeworld": "Coruscant",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -914,13 +914,13 @@
             "eye_color": "orange",
             "birth_year": "52BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/"
+                "Attack of the Clones",
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/12/"
+                "Gungan"
             ],
             "vehicles": [],
             "starships": [],
@@ -939,12 +939,12 @@
             "eye_color": "orange",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/12/"
+                "Gungan"
             ],
             "vehicles": [],
             "starships": [],
@@ -963,12 +963,12 @@
             "eye_color": "orange",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/12/"
+                "Gungan"
             ],
             "vehicles": [],
             "starships": [],
@@ -987,14 +987,14 @@
             "eye_color": "blue",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/40/"
+                "Naboo Royal Starship"
             ],
             "created": "2014-12-19T17:45:01.522000Z",
             "edited": "2014-12-20T21:17:50.392000Z",
@@ -1011,13 +1011,13 @@
             "eye_color": "yellow",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/34/",
+            "homeworld": "Toydaria",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/"
+                "Attack of the Clones",
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/13/"
+                "Toydarian"
             ],
             "vehicles": [],
             "starships": [],
@@ -1036,12 +1036,12 @@
             "eye_color": "orange",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/35/",
+            "homeworld": "Malastare",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/14/"
+                "Dug"
             ],
             "vehicles": [],
             "starships": [],
@@ -1060,9 +1060,9 @@
             "eye_color": "brown",
             "birth_year": "62BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [],
             "vehicles": [],
@@ -1082,13 +1082,13 @@
             "eye_color": "brown",
             "birth_year": "72BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/"
+                "Attack of the Clones",
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1107,18 +1107,18 @@
             "eye_color": "yellow",
             "birth_year": "54BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/36/",
+            "homeworld": "Dathomir",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/22/"
+                "Zabrak"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/42/"
+                "Sith speeder"
             ],
             "starships": [
-                "https://swapi.co/api/starships/41/"
+                "Scimitar"
             ],
             "created": "2014-12-19T18:00:41.929000Z",
             "edited": "2014-12-20T21:17:50.403000Z",
@@ -1135,12 +1135,12 @@
             "eye_color": "pink",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/37/",
+            "homeworld": "Ryloth",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "Return of the Jedi"
             ],
             "species": [
-                "https://swapi.co/api/species/15/"
+                "Twi'lek"
             ],
             "vehicles": [],
             "starships": [],
@@ -1159,14 +1159,14 @@
             "eye_color": "hazel",
             "birth_year": "48BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/37/",
+            "homeworld": "Ryloth",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/15/"
+                "Twi'lek"
             ],
             "vehicles": [],
             "starships": [],
@@ -1185,12 +1185,12 @@
             "eye_color": "yellow",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/39/",
+            "homeworld": "Vulpter",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/17/"
+                "Vulptereen"
             ],
             "vehicles": [],
             "starships": [],
@@ -1209,12 +1209,12 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/40/",
+            "homeworld": "Troiken",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/18/"
+                "Xexto"
             ],
             "vehicles": [],
             "starships": [],
@@ -1233,12 +1233,12 @@
             "eye_color": "orange",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/41/",
+            "homeworld": "Tund",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/19/"
+                "Toong"
             ],
             "vehicles": [],
             "starships": [],
@@ -1257,14 +1257,14 @@
             "eye_color": "brown",
             "birth_year": "72BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/42/",
+            "homeworld": "Haruun Kal",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1283,14 +1283,14 @@
             "eye_color": "yellow",
             "birth_year": "92BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/43/",
+            "homeworld": "Cerea",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/20/"
+                "Cerean"
             ],
             "vehicles": [],
             "starships": [],
@@ -1309,14 +1309,14 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/44/",
+            "homeworld": "Glee Anselm",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/21/"
+                "Nautolan"
             ],
             "vehicles": [],
             "starships": [],
@@ -1335,13 +1335,13 @@
             "eye_color": "brown",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/45/",
+            "homeworld": "Iridonia",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/22/"
+                "Zabrak"
             ],
             "vehicles": [],
             "starships": [],
@@ -1360,13 +1360,13 @@
             "eye_color": "blue",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/9/",
+            "homeworld": "Coruscant",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/23/"
+                "Tholothian"
             ],
             "vehicles": [],
             "starships": [],
@@ -1385,13 +1385,13 @@
             "eye_color": "orange",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/47/",
+            "homeworld": "Iktotch",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/24/"
+                "Iktotchi"
             ],
             "vehicles": [],
             "starships": [],
@@ -1410,12 +1410,12 @@
             "eye_color": "yellow",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/48/",
+            "homeworld": "Quermia",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/25/"
+                "Quermian"
             ],
             "vehicles": [],
             "starships": [],
@@ -1434,18 +1434,18 @@
             "eye_color": "black",
             "birth_year": "22BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/49/",
+            "homeworld": "Dorin",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/26/"
+                "Kel Dor"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/48/"
+                "Jedi starfighter"
             ],
             "created": "2014-12-20T10:49:19.859000Z",
             "edited": "2014-12-20T21:17:50.439000Z",
@@ -1462,13 +1462,13 @@
             "eye_color": "blue",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/50/",
+            "homeworld": "Champala",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/"
+                "Attack of the Clones",
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/27/"
+                "Chagrian"
             ],
             "vehicles": [],
             "starships": [],
@@ -1487,16 +1487,16 @@
             "eye_color": "brown",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/39/"
+                "Naboo fighter"
             ],
             "created": "2014-12-20T11:10:10.381000Z",
             "edited": "2014-12-20T21:17:50.445000Z",
@@ -1513,12 +1513,12 @@
             "eye_color": "brown",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1537,12 +1537,12 @@
             "eye_color": "blue",
             "birth_year": "82BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/1/",
+            "homeworld": "Tatooine",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1561,13 +1561,13 @@
             "eye_color": "yellow",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/11/",
+            "homeworld": "Geonosis",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/28/"
+                "Geonosian"
             ],
             "vehicles": [],
             "starships": [],
@@ -1586,13 +1586,13 @@
             "eye_color": "blue",
             "birth_year": "58BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/51/",
+            "homeworld": "Mirial",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/29/"
+                "Mirialan"
             ],
             "vehicles": [],
             "starships": [],
@@ -1611,12 +1611,12 @@
             "eye_color": "blue",
             "birth_year": "40BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/51/",
+            "homeworld": "Mirial",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/29/"
+                "Mirialan"
             ],
             "vehicles": [],
             "starships": [],
@@ -1635,12 +1635,12 @@
             "eye_color": "brown",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1659,16 +1659,16 @@
             "eye_color": "brown",
             "birth_year": "102BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/52/",
+            "homeworld": "Serenno",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/55/"
+                "Flitknot speeder"
             ],
             "starships": [],
             "created": "2014-12-20T16:52:14.726000Z",
@@ -1686,13 +1686,13 @@
             "eye_color": "brown",
             "birth_year": "67BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/2/",
+            "homeworld": "Alderaan",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1711,12 +1711,12 @@
             "eye_color": "brown",
             "birth_year": "66BBY",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/53/",
+            "homeworld": "Concord Dawn",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1735,15 +1735,15 @@
             "eye_color": "yellow",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/54/",
+            "homeworld": "Zolan",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/30/"
+                "Clawdite"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/45/"
+                "Koro-2 Exodrive airspeeder"
             ],
             "starships": [],
             "created": "2014-12-20T16:57:44.471000Z",
@@ -1761,12 +1761,12 @@
             "eye_color": "yellow",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/55/",
+            "homeworld": "Ojom",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/31/"
+                "Besalisk"
             ],
             "vehicles": [],
             "starships": [],
@@ -1785,12 +1785,12 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/10/",
+            "homeworld": "Kamino",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/32/"
+                "Kaminoan"
             ],
             "vehicles": [],
             "starships": [],
@@ -1809,12 +1809,12 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/10/",
+            "homeworld": "Kamino",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/32/"
+                "Kaminoan"
             ],
             "vehicles": [],
             "starships": [],
@@ -1833,12 +1833,12 @@
             "eye_color": "blue",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/9/",
+            "homeworld": "Coruscant",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -1857,12 +1857,12 @@
             "eye_color": "unknown",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/38/",
+            "homeworld": "Aleen Minor",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "The Phantom Menace"
             ],
             "species": [
-                "https://swapi.co/api/species/16/"
+                "Aleena"
             ],
             "vehicles": [],
             "starships": [],
@@ -1881,10 +1881,10 @@
             "eye_color": "red, blue",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "Revenge of the Sith"
             ],
             "species": [],
             "vehicles": [],
@@ -1904,12 +1904,12 @@
             "eye_color": "unknown",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/56/",
+            "homeworld": "Skako",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/33/"
+                "Skakoan"
             ],
             "vehicles": [],
             "starships": [],
@@ -1928,12 +1928,12 @@
             "eye_color": "gold",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/57/",
+            "homeworld": "Muunilinst",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "Attack of the Clones"
             ],
             "species": [
-                "https://swapi.co/api/species/34/"
+                "Muun"
             ],
             "vehicles": [],
             "starships": [],
@@ -1952,13 +1952,13 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/58/",
+            "homeworld": "Shili",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/35/"
+                "Togruta"
             ],
             "vehicles": [],
             "starships": [],
@@ -1977,18 +1977,18 @@
             "eye_color": "green, yellow",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/59/",
+            "homeworld": "Kalee",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/36/"
+                "Kaleesh"
             ],
             "vehicles": [
-                "https://swapi.co/api/vehicles/60/"
+                "Tsmeu-6 personal wheel bike"
             ],
             "starships": [
-                "https://swapi.co/api/starships/74/"
+                "Belbullab-22 starfighter"
             ],
             "created": "2014-12-20T19:43:53.348000Z",
             "edited": "2014-12-20T21:17:50.488000Z",
@@ -2005,12 +2005,12 @@
             "eye_color": "blue",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/14/",
+            "homeworld": "Kashyyyk",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/3/"
+                "Wookiee"
             ],
             "vehicles": [],
             "starships": [],
@@ -2029,13 +2029,13 @@
             "eye_color": "brown",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/2/",
+            "homeworld": "Alderaan",
             "films": [
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/1/"
+                "Revenge of the Sith",
+                "A New Hope"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -2054,10 +2054,10 @@
             "eye_color": "white",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/60/",
+            "homeworld": "Umbara",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "Revenge of the Sith"
             ],
             "species": [],
             "vehicles": [],
@@ -2077,12 +2077,12 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/12/",
+            "homeworld": "Utapau",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/37/"
+                "Pau'an"
             ],
             "vehicles": [],
             "starships": [],
@@ -2101,12 +2101,12 @@
             "eye_color": "dark",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/7/"
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -2125,12 +2125,12 @@
             "eye_color": "hazel",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/7/"
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [],
@@ -2149,16 +2149,16 @@
             "eye_color": "brown",
             "birth_year": "unknown",
             "gender": "male",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/7/"
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/77/"
+                "T-70 X-wing fighter"
             ],
             "created": "2015-04-17T06:55:21.622786Z",
             "edited": "2015-04-17T06:55:21.622835Z",
@@ -2175,12 +2175,12 @@
             "eye_color": "black",
             "birth_year": "unknown",
             "gender": "none",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/7/"
+                "The Force Awakens"
             ],
             "species": [
-                "https://swapi.co/api/species/2/"
+                "Droid"
             ],
             "vehicles": [],
             "starships": [],
@@ -2199,9 +2199,9 @@
             "eye_color": "unknown",
             "birth_year": "unknown",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "unknown",
             "films": [
-                "https://swapi.co/api/films/7/"
+                "The Force Awakens"
             ],
             "species": [],
             "vehicles": [],
@@ -2221,20 +2221,20 @@
             "eye_color": "brown",
             "birth_year": "46BBY",
             "gender": "female",
-            "homeworld": "https://swapi.co/api/planets/8/",
+            "homeworld": "Naboo",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "Attack of the Clones",
+                "The Phantom Menace",
+                "Revenge of the Sith"
             ],
             "species": [
-                "https://swapi.co/api/species/1/"
+                "Human"
             ],
             "vehicles": [],
             "starships": [
-                "https://swapi.co/api/starships/49/",
-                "https://swapi.co/api/starships/64/",
-                "https://swapi.co/api/starships/39/"
+                "H-type Nubian yacht",
+                "Naboo star skiff",
+                "Naboo fighter"
             ],
             "created": "2014-12-19T17:28:26.926000Z",
             "edited": "2016-04-20T17:06:31.502555Z",
