@@ -3,6 +3,7 @@
     "results": [
         {
             "name": "Alderaan", 
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Alderaan250ppx.PNG/220px-Alderaan250ppx.PNG",
             "rotation_period": "24", 
             "orbital_period": "364", 
             "diameter": "12500", 
@@ -26,6 +27,7 @@
         }, 
         {
             "name": "Yavin IV", 
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Star_Wars_Planet_Yavin_with_Moon.jpg/290px-Star_Wars_Planet_Yavin_with_Moon.jpg",
             "rotation_period": "24", 
             "orbital_period": "4818", 
             "diameter": "10200", 
@@ -44,6 +46,7 @@
         }, 
         {
             "name": "Hoth", 
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Hothplanetsurface.jpg/220px-Hothplanetsurface.jpg",
             "rotation_period": "23", 
             "orbital_period": "549", 
             "diameter": "7200", 
@@ -62,6 +65,7 @@
         }, 
         {
             "name": "Dagobah", 
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Dagobah.jpg/220px-Dagobah.jpg",
             "rotation_period": "23", 
             "orbital_period": "341", 
             "diameter": "8900", 
@@ -82,6 +86,7 @@
         }, 
         {
             "name": "Bespin", 
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Bespin.jpg/220px-Bespin.jpg",
             "rotation_period": "12", 
             "orbital_period": "5110", 
             "diameter": "118000", 
@@ -102,6 +107,7 @@
         }, 
         {
             "name": "Endor", 
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/PlanetEndor.jpg/220px-PlanetEndor.jpg",
             "rotation_period": "18", 
             "orbital_period": "402", 
             "diameter": "4900", 
@@ -122,6 +128,7 @@
         }, 
         {
             "name": "Naboo", 
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Spain_Andalusia_Seville_BW_2015-10-23_15-35-15.jpg/220px-Spain_Andalusia_Seville_BW_2015-10-23_15-35-15.jpg",
             "rotation_period": "26", 
             "orbital_period": "312", 
             "diameter": "12120", 
@@ -155,6 +162,7 @@
         }, 
         {
             "name": "Coruscant", 
+            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Coruscant.png/220px-Coruscant.png",
             "rotation_period": "24", 
             "orbital_period": "368", 
             "diameter": "12240", 
@@ -180,6 +188,7 @@
         }, 
         {
             "name": "Kamino", 
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Oceane.JPG/280px-Oceane.JPG",
             "rotation_period": "27", 
             "orbital_period": "463", 
             "diameter": "19720", 
@@ -202,6 +211,7 @@
         }, 
         {
             "name": "Geonosis", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/a/a5/Geonosis.png",
             "rotation_period": "30", 
             "orbital_period": "256", 
             "diameter": "11370", 
@@ -222,6 +232,7 @@
         },
         {
             "name": "Utapau", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/e/e1/Utapau.png",
             "rotation_period": "27", 
             "orbital_period": "351", 
             "diameter": "12900", 
@@ -242,6 +253,7 @@
         }, 
         {
             "name": "Mustafar", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/4/46/Mustafar.png",
             "rotation_period": "36", 
             "orbital_period": "412", 
             "diameter": "4200", 
@@ -260,6 +272,7 @@
         }, 
         {
             "name": "Kashyyyk", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/e/ea/Kashyyyk-SW-MTHC.png",
             "rotation_period": "26", 
             "orbital_period": "381", 
             "diameter": "12765", 
@@ -281,6 +294,7 @@
         }, 
         {
             "name": "Polis Massa", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/d/dc/PolisMassa-BFII.jpg",
             "rotation_period": "24", 
             "orbital_period": "590", 
             "diameter": "0", 
@@ -299,6 +313,7 @@
         }, 
         {
             "name": "Mygeeto", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/e/ee/Mygeeto.jpg",
             "rotation_period": "12", 
             "orbital_period": "167", 
             "diameter": "10088", 
@@ -317,6 +332,7 @@
         }, 
         {
             "name": "Felucia", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/a/a8/Felucia.png",
             "rotation_period": "34", 
             "orbital_period": "231", 
             "diameter": "9100", 
@@ -335,6 +351,7 @@
         }, 
         {
             "name": "Cato Neimoidia", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/5/5b/Cato_Neimoidia.png",
             "rotation_period": "25", 
             "orbital_period": "278", 
             "diameter": "0", 
@@ -355,6 +372,7 @@
         }, 
         {
             "name": "Saleucami", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/a/a3/Saleucami_MPQ.png",
             "rotation_period": "26", 
             "orbital_period": "392", 
             "diameter": "14920", 
@@ -373,6 +391,7 @@
         }, 
         {
             "name": "Stewjon", 
+            "picture": "https://holopedia.de/thumb.php?f=PlanetStewjon.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "0", 
@@ -391,6 +410,7 @@
         }, 
         {
             "name": "Eriadu", 
+            "picture": "https://vignette.wikia.nocookie.net/swgames/images/d/d1/Eriadu.png",
             "rotation_period": "24", 
             "orbital_period": "360", 
             "diameter": "13490", 
@@ -409,6 +429,7 @@
         },
         {
             "name": "Corellia", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/d/d7/Corellia-SWCT.png",
             "rotation_period": "25", 
             "orbital_period": "329", 
             "diameter": "11000", 
@@ -428,6 +449,7 @@
         }, 
         {
             "name": "Rodia", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/c/c3/Rodia_canon.png",
             "rotation_period": "29", 
             "orbital_period": "305", 
             "diameter": "7549", 
@@ -446,6 +468,7 @@
         }, 
         {
             "name": "Nal Hutta", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/1/1f/Nal_Hutta.png",
             "rotation_period": "87", 
             "orbital_period": "413", 
             "diameter": "12150", 
@@ -464,6 +487,7 @@
         }, 
         {
             "name": "Dantooine", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/9/9f/DantooineRebels.png",
             "rotation_period": "25", 
             "orbital_period": "378", 
             "diameter": "9830", 
@@ -480,6 +504,7 @@
         }, 
         {
             "name": "Bestine IV", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/0/04/Bestine_IV.jpg",
             "rotation_period": "26", 
             "orbital_period": "680", 
             "diameter": "6400", 
@@ -498,6 +523,7 @@
         }, 
         {
             "name": "Ord Mantell", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/3/36/Ord_Mantell_EotECR.png",
             "rotation_period": "26", 
             "orbital_period": "334", 
             "diameter": "14050", 
@@ -516,6 +542,7 @@
         }, 
         {
             "name": "unknown", 
+            "picture": "https://4.bp.blogspot.com/-clRpWg9Vh7A/WI9J7jj1yuI/AAAAAAAACys/sDB9kNBD9Gs4m4YVj7S0o1e1o6yYFda3gCLcB/s1600/POINT%2BINTERROGATION%2BSYMBOLE%2BBLASPHEMATOIRE%2BDE%2BJESUS%2BQUESTION%2BMARK%2BJESUS%2BSYMBOLE%2BKABBALE%2BLANGUE%2BDES%2BOISAUX%2BBLOG%2BAVEC%2BJESUS%2BET%2BMARIE%2B%25281%2529.jpeg",
             "rotation_period": "0", 
             "orbital_period": "0", 
             "diameter": "0", 
@@ -543,6 +570,7 @@
         }, 
         {
             "name": "Trandosha", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/6/6c/Wasskah.png",
             "rotation_period": "25", 
             "orbital_period": "371", 
             "diameter": "0", 
@@ -561,6 +589,7 @@
         }, 
         {
             "name": "Socorro", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/1/16/Coruscant-EotE.jpg",
             "rotation_period": "20", 
             "orbital_period": "326", 
             "diameter": "0", 
@@ -579,6 +608,7 @@
         }, 
         {
             "name": "Mon Cala", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/1/1d/Mon_Calamari.png",
             "rotation_period": "21", 
             "orbital_period": "398", 
             "diameter": "11030", 
@@ -596,7 +626,8 @@
             "url": "https://swapi.co/api/planets/31/"
         },
         {
-            "name": "Chandrila", 
+            "name": "Chandrila",
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/9/9b/Chandrila_AoRCR.png", 
             "rotation_period": "20", 
             "orbital_period": "368", 
             "diameter": "13500", 
@@ -615,6 +646,7 @@
         }, 
         {
             "name": "Sullust", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/9/91/Sullust.png",
             "rotation_period": "20", 
             "orbital_period": "263", 
             "diameter": "12780", 
@@ -632,7 +664,8 @@
             "url": "https://swapi.co/api/planets/33/"
         }, 
         {
-            "name": "Toydaria", 
+            "name": "Toydaria",
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/5/5c/Toydaria.png", 
             "rotation_period": "21", 
             "orbital_period": "184", 
             "diameter": "7900", 
@@ -651,6 +684,7 @@
         }, 
         {
             "name": "Malastare", 
+            "picture": "http://img1.starwars-holonet.com/holonet/dictionnaire/photos/planete_malastare.jpg",
             "rotation_period": "26", 
             "orbital_period": "201", 
             "diameter": "18880", 
@@ -669,6 +703,7 @@
         }, 
         {
             "name": "Dathomir", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/d/d7/Dathomir.png",
             "rotation_period": "24", 
             "orbital_period": "491", 
             "diameter": "10480", 
@@ -687,6 +722,7 @@
         }, 
         {
             "name": "Ryloth", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/d/d3/Ryloth_EotECR.png",
             "rotation_period": "30", 
             "orbital_period": "305", 
             "diameter": "10600", 
@@ -706,6 +742,7 @@
         }, 
         {
             "name": "Aleen Minor", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/f/f6/Aleen_NEGAS.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -724,6 +761,7 @@
         }, 
         {
             "name": "Vulpter", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/0/0b/Fondor_EotECR.png",
             "rotation_period": "22", 
             "orbital_period": "391", 
             "diameter": "14900", 
@@ -742,6 +780,7 @@
         }, 
         {
             "name": "Troiken", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/e/e1/Quermia.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -760,6 +799,7 @@
         }, 
         {
             "name": "Tund", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/5/52/Prakith_RPG.jpg",
             "rotation_period": "48", 
             "orbital_period": "1770", 
             "diameter": "12190", 
@@ -778,6 +818,7 @@
         },
         {
             "name": "Haruun Kal", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/9/92/HaruunKalCSWE.JPG",
             "rotation_period": "25", 
             "orbital_period": "383", 
             "diameter": "10120", 
@@ -796,6 +837,7 @@
         }, 
         {
             "name": "Cerea", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/0/01/Cerea.jpg",
             "rotation_period": "27", 
             "orbital_period": "386", 
             "diameter": "unknown", 
@@ -814,6 +856,7 @@
         }, 
         {
             "name": "Glee Anselm", 
+            "picture": "https://vignette.wikia.nocookie.net/theclonewiki/images/0/0c/GleeAnselm.jpg",
             "rotation_period": "33", 
             "orbital_period": "206", 
             "diameter": "15600", 
@@ -832,6 +875,7 @@
         }, 
         {
             "name": "Iridonia", 
+            "picture": "http://pm1.narvii.com/6470/a423b239d39b46dd223fbbcc6c975146e014362d_hq.jpg",
             "rotation_period": "29", 
             "orbital_period": "413", 
             "diameter": "unknown", 
@@ -850,6 +894,7 @@
         }, 
         {
             "name": "Tholoth", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/1/1d/CaridaSpace.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -866,6 +911,7 @@
         }, 
         {
             "name": "Iktotch", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/c/cc/Iktotch.png",
             "rotation_period": "22", 
             "orbital_period": "481", 
             "diameter": "unknown", 
@@ -884,6 +930,7 @@
         }, 
         {
             "name": "Quermia", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/e/e1/Quermia.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -902,6 +949,7 @@
         }, 
         {
             "name": "Dorin", 
+            "picture": "https://www.starwars-universe.com/images/encyclopedie/planetes/images_v6/dorin_image.png",
             "rotation_period": "22", 
             "orbital_period": "409", 
             "diameter": "13400", 
@@ -920,6 +968,7 @@
         }, 
         {
             "name": "Champala", 
+            "picture": "https://www.starwars-universe.com/images/encyclopedie/planetes/images_v6/champala_image.jpg",
             "rotation_period": "27", 
             "orbital_period": "318", 
             "diameter": "unknown", 
@@ -938,6 +987,7 @@
         }, 
         {
             "name": "Mirial", 
+            "picture": "https://vignette.wikia.nocookie.net/star-wars-pathfinder/images/e/e0/Mirial.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -957,6 +1007,7 @@
         },
         {
             "name": "Serenno", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/f/f1/Serenno.png",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -975,6 +1026,7 @@
         }, 
         {
             "name": "Concord Dawn", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/5/56/Concord_Dawn.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -993,6 +1045,7 @@
         }, 
         {
             "name": "Zolan", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/6/66/Zolan.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -1011,6 +1064,7 @@
         }, 
         {
             "name": "Ojom", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/8/81/Hoth_AoRCR.png",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -1029,6 +1083,7 @@
         }, 
         {
             "name": "Skako", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/c/cd/Skako.jpg",
             "rotation_period": "27", 
             "orbital_period": "384", 
             "diameter": "unknown", 
@@ -1047,6 +1102,7 @@
         }, 
         {
             "name": "Muunilinst", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/1/19/Muunilinst.jpg",
             "rotation_period": "28", 
             "orbital_period": "412", 
             "diameter": "13800", 
@@ -1065,6 +1121,7 @@
         }, 
         {
             "name": "Shili", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/6/65/Shili.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -1083,6 +1140,7 @@
         }, 
         {
             "name": "Kalee", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/0/08/KaleePlanet.jpg",
             "rotation_period": "23", 
             "orbital_period": "378", 
             "diameter": "13850", 
@@ -1101,6 +1159,7 @@
         }, 
         {
             "name": "Umbara", 
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/2/2d/Umbara-Planet_SWTOR.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
@@ -1119,6 +1178,7 @@
         }, 
         {
             "name": "Tatooine", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/f/f6/Tatoooinefull.jpg",
             "rotation_period": "23", 
             "orbital_period": "304", 
             "diameter": "10465", 
@@ -1152,6 +1212,7 @@
         },
         {
             "name": "Jakku", 
+            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/f/f4/Jakku_-_full_-_SW_Poe_Dameron_Flight_Log_.png",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "unknown", 
