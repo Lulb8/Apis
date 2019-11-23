@@ -9,6 +9,7 @@
          "director":"George Lucas",
          "producer":"Gary Kurtz, Rick McCallum",
          "release_date":"1977-05-25",
+         "trailer":"https://www.youtube.com/embed/vZ734NWnAHA",
          "characters":[
             "Luke Skywalker",
             "C-3PO",
@@ -69,6 +70,7 @@
          "director":"Irvin Kershner",
          "producer":"Gary Kurtz, Rick McCallum",
          "release_date":"1980-05-17",
+         "trailer":"https://www.youtube.com/embed/JNwNXF9Y6kY",
          "characters":[
             "Luke Skywalker",
             "C-3PO",
@@ -131,6 +133,7 @@
          "director":"Richard Marquand",
          "producer":"Howard G. Kazanjian, George Lucas, Rick McCallum",
          "release_date":"1983-05-25",
+         "trailer":"https://www.youtube.com/embed/7L8p7_SLzvU",
          "characters":[
             "Luke Skywalker",
             "C-3PO",
@@ -207,6 +210,7 @@
          "director":"George Lucas",
          "producer":"Rick McCallum",
          "release_date":"1999-05-19",
+         "trailer":"https://www.youtube.com/embed/bD7bpG-zDJQ",
          "characters":[
             "C-3PO",
             "R2-D2",
@@ -298,6 +302,7 @@
          "director":"George Lucas",
          "producer":"Rick McCallum",
          "release_date":"2002-05-16",
+         "trailer":"https://www.youtube.com/embed/gYbW1F_c9eM",
          "characters":[
             "C-3PO",
             "R2-D2",
@@ -399,6 +404,7 @@
          "director":"George Lucas",
          "producer":"Rick McCallum",
          "release_date":"2005-05-19",
+         "trailer":"https://www.youtube.com/embed/5UnjrG_N8hU",
          "characters":[
             "Luke Skywalker",
             "C-3PO",
@@ -513,6 +519,7 @@
          "director":"J. J. Abrams",
          "producer":"Kathleen Kennedy, J. J. Abrams, Bryan Burk",
          "release_date":"2015-12-11",
+         "trailer":"https://www.youtube.com/embed/sGbxmsDFVnE",
          "characters":[
             "Luke Skywalker",
             "R2-D2",
