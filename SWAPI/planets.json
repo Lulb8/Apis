@@ -86,7 +86,7 @@
         }, 
         {
             "name": "Bespin", 
-            "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Bespin.jpg/220px-Bespin.jpg",
+            "picture": "https://vignette.wikia.nocookie.net/starwars/images/2/2c/Bespin_EotECR.png",
             "rotation_period": "12", 
             "orbital_period": "5110", 
             "diameter": "118000", 
@@ -128,7 +128,7 @@
         }, 
         {
             "name": "Naboo", 
-            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Spain_Andalusia_Seville_BW_2015-10-23_15-35-15.jpg/220px-Spain_Andalusia_Seville_BW_2015-10-23_15-35-15.jpg",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b4/SHplanet.jpg",
             "rotation_period": "26", 
             "orbital_period": "312", 
             "diameter": "12120", 
@@ -391,7 +391,7 @@
         }, 
         {
             "name": "Stewjon", 
-            "picture": "https://holopedia.de/thumb.php?f=PlanetStewjon.jpg",
+            "picture": "https://vignette.wikia.nocookie.net/starwarscavalryofdarkness/images/b/bd/ImagesCA533VT4.jpg",
             "rotation_period": "unknown", 
             "orbital_period": "unknown", 
             "diameter": "0", 
@@ -684,7 +684,7 @@
         }, 
         {
             "name": "Malastare", 
-            "picture": "http://img1.starwars-holonet.com/holonet/dictionnaire/photos/planete_malastare.jpg",
+            "picture": "https://i.pinimg.com/originals/40/a1/7c/40a17c230f477e803eefaca98040afd1.jpg",
             "rotation_period": "26", 
             "orbital_period": "201", 
             "diameter": "18880", 
@@ -875,7 +875,7 @@
         }, 
         {
             "name": "Iridonia", 
-            "picture": "http://pm1.narvii.com/6470/a423b239d39b46dd223fbbcc6c975146e014362d_hq.jpg",
+            "picture": "http://pm1.narvii.com/6470/a423b239d39b46dd223fbbcc6c975146e014362d_00.jpg",
             "rotation_period": "29", 
             "orbital_period": "413", 
             "diameter": "unknown", 
@@ -1083,7 +1083,7 @@
         }, 
         {
             "name": "Skako", 
-            "picture": "https://vignette.wikia.nocookie.net/starwars/images/c/cd/Skako.jpg",
+            "picture": "https://vignette.wikia.nocookie.net/banthapedia/images/c/cd/Skako.jpg",
             "rotation_period": "27", 
             "orbital_period": "384", 
             "diameter": "unknown", 
@@ -1178,7 +1178,7 @@
         }, 
         {
             "name": "Tatooine", 
-            "picture": "https://vignette.wikia.nocookie.net/fr.starwars/images/f/f6/Tatoooinefull.jpg",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/2/23/DesertPlanet.jpg",
             "rotation_period": "23", 
             "orbital_period": "304", 
             "diameter": "10465", 
