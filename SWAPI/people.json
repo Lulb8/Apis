@@ -4,7 +4,7 @@
         {
             "name": "Luke Skywalker",
             "image_icon": "https://www.starwars-universe.com/images/encyclopedie/personnages/avatars_v6/luke_avv6.jpg",
-            "image_detail": "https://media.melty.fr/article-3158530-head/universite-campus-etudiant-fac-star-wars.jpg",
+            "image_detail": "http://images-cdn.fantasyflightgames.com/filer_public/ae/ab/aeab57ee-37c4-4252-bccc-6391852c5e02/swl56-57_preview2.jpg",
             "height": "172",
             "mass": "77",
             "hair_color": "blond",
@@ -125,8 +125,8 @@
         },
         {
             "name": "Leia Organa",
-            "image_icon": "http://www.noticias-frescas.com/thumb/5/c/9/2/a/9/c92a95ff186b47d0d7dc9b76d505ae0a.jpg",
-            "image_detail": "https://media.melty.fr/article-3385726-head-f2365001/star-wars-battlefront-leia-organa-tenue-costume.jpg",
+            "image_icon": "https://i.pinimg.com/originals/16/1d/b8/161db8e81d2e7ef0559a35bad45ac014.jpg",
+            "image_detail": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/national-desk/14413996-14413996.jpg",
             "height": "150",
             "mass": "49",
             "hair_color": "brown",
@@ -231,7 +231,7 @@
         },
         {
             "name": "Biggs Darklighter",
-            "image_icon": "http://www.starwars-holonet.com/holonet/images/4/4a/11623/perso_darklighter_biggs_nc.jpg",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/5/51/Biggs_Darklighter.png",
             "image_detail": "https://fsmedia.imgix.net/bd/dc/35/34/cedd/4568/b4d2/b827cafbc432/image606ff7f7jpeg.jpeg",
             "height": "183",
             "mass": "84",
@@ -466,7 +466,7 @@
         {
             "name": "Wedge Antilles",
             "image_icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e76980d1-4092-4245-bbf9-b25fd8db1069/dc00owy-7ee0d588-9931-4521-989b-414f583009ff.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3Njk4MGQxLTQwOTItNDI0NS1iYmY5LWIyNWZkOGRiMTA2OVwvZGMwMG93eS03ZWUwZDU4OC05OTMxLTQ1MjEtOTg5Yi00MTRmNTgzMDA5ZmYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jZJjsCjqGXPbvczdhVUkJr1ZmrPBEU7H_Wvzes1tyME",
-            "image_detail": "https://media.melty.fr/article-3428764-head-f1485860100/star-wars-un-nouvel-espoir-denis-lawson-david.jpg",
+            "image_detail": "https://fsmedia.imgix.net/ae/87/7c/b9/66f0/4fe0/85eb/ecc48be66a45/wedge-during-the-big-rebel-briefing-in-return-of-the-jedi.png",
             "height": "170",
             "mass": "77",
             "hair_color": "brown",
@@ -704,7 +704,7 @@
         },
         {
             "name": "Ackbar",
-            "image_icon": "http://static2.businessinsider.com/image/5703cb0d9105842a008babcf-1048-786/ackbar.jpg",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/2/29/Admiral_Ackbar_RH.png",
             "image_detail": "https://i0.wp.com/www.newsgroove.co.uk/wp-content/uploads/2019/06/_Admiral-Ackbar-actor-calls-his-039Star-Wars-The-Last-Jedi039-death-a-039joke039.jpeg",
             "height": "180",
             "mass": "83",
@@ -730,7 +730,7 @@
         {
             "name": "Mon Mothma",
             "image_icon": "https://4.bp.blogspot.com/-e10FaAPw180/WAp6gUdoZ4I/AAAAAAAAOf4/AOEnUaUt-IIggBRo8HaX_5eAWb1ZlNT7gCLcB/s1600/poster%252Bwallpaper%252Bstar%252Bwars%252Brogue%252Bone%252BGenevieve%252BO%252527Reilly%252Bcomo%252BMon%252BMothma.jpg",
-            "image_detail": "http://www.syfantasy.fr/images/news/crop2_mon-mothma-rebel-briefing-rotj2.jpg",
+            "image_detail": "https://media.anakinworld.com/uploads/entries/original/mon-mothma-cb267ffccd7573ed47eb5134f10137ada9505c7c.jpeg",
             "height": "150",
             "mass": "unknown",
             "hair_color": "auburn",
@@ -855,7 +855,7 @@
         },
         {
             "name": "Nute Gunray",
-            "image_icon": "https://external-preview.redd.it/SaavU0ufsMUYyMAVgOqotUhxfoYcBZwcT2IBmcJdY7k.jpg",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/1/1f/Nute_Gunray.png",
             "image_detail": "https://steamuserimages-a.akamaihd.net/ugc/942843837182649221/3AF17C5A6549F557FC5E87A2DA7338B4B8141836/",
             "height": "191",
             "mass": "90",
@@ -906,7 +906,7 @@
         {
             "name": "Jar Jar Binks",
             "image_icon": "https://www.nacion.com/resizer/mQ9JawRmCZB20YloAKVbCGHx0L4=/1200x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/AGA4PNFVFVG2RO5VWDHAU7LZMY.jpg",
-            "image_detail": "http://p1.cineserie.com/www.cineserie.com/wp-content/uploads/2019/04/star-wars-george-lucas-revele-son-personnage-prefere.png",
+            "image_detail": "http://fr.web.img5.acsta.net/r_640_360/newsv7/17/02/20/15/29/593572.jpg",
             "height": "196",
             "mass": "66",
             "hair_color": "none",
@@ -931,7 +931,7 @@
         {
             "name": "Roos Tarpals",
             "image_icon": "https://i.redd.it/pfuy2otf8lez.jpg",
-            "image_detail": "http://img4.wikia.nocookie.net/__cb20130121203445/starwars/images/8/8d/Captain_Tarpals.png",
+            "image_detail": "http://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_tarpals_1.jpg",
             "height": "224",
             "mass": "82",
             "hair_color": "none",
@@ -977,9 +977,9 @@
             "url": "https://swapi.co/api/people/38/"
         },
         {
-            "name": "Ric Oli�",
+            "name": "Ric Olié",
             "image_icon": "https://img.planete-starwars.com/upload/databank/1/3422_ric.jpg",
-            "image_detail": "http://www.jeditemplearchives.com/galleries/2012/Review_RicOlieDTF/Review_RicOlieDTF_stillA.JPG",
+            "image_detail": "http://static3.wikia.nocookie.net/__cb20130313235911/darth/images/7/71/RicOlieRight.png",
             "height": "183",
             "mass": "unknown",
             "hair_color": "brown",
@@ -1074,7 +1074,7 @@
         {
             "name": "Shmi Skywalker",
             "image_icon": "https://pbs.twimg.com/media/D6OfhitWkAEpySz.jpg",
-            "image_detail": "https://pbs.twimg.com/media/DjeM-aVW4AIl8pR.jpg",
+            "image_detail": "https://www.geekqc.ca/wp-content/uploads/2018/12/Shmi-Skywalker1-2.jpg",
             "height": "163",
             "mass": "unknown",
             "hair_color": "black",
@@ -1098,7 +1098,7 @@
         },
         {
             "name": "Darth Maul",
-            "image_icon": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ffr.starwars%2Fimages%2F1%2F19%2FDark_Maul.png%2Frevision%2Flatest%3Fcb%3D20160219095511&imgrefurl=https%3A%2F%2Fstarwars.fandom.com%2Ffr%2Fwiki%2FMaul&docid=72ViD0cfITXqQM&tbnid=3RKIxCO8sz3EVM%3A&vet=10ahUKEwiMuNXM4fPkAhUfSBUIHf6TBaUQMwhWKAQwBA..i&w=653&h=816&bih=916&biw=944&q=Darth%20Maul&ved=0ahUKEwiMuNXM4fPkAhUfSBUIHf6TBaUQMwhWKAQwBA&iact=mrc&uact=8",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/1/19/Dark_Maul.png",
             "image_detail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9Fl3-mCwTkVF7_arK4uz6M8lpnR-pk-ldeIAPVinGBJl8BBZSg",
             "height": "175",
             "mass": "80",
@@ -1126,8 +1126,8 @@
         },
         {
             "name": "Bib Fortuna",
-            "image_icon": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/e35/38039088_2199790073630411_4567943790857289728_n.jpg",
-            "image_detail": "http://www.omurokur.com/wp-content/uploads/2015/12/Bib-Fortuna.jpeg",
+            "image_icon": "https://upload.wikimedia.org/wikipedia/en/e/eb/Bib_Fortuna.jpg",
+            "image_detail": "http://jedinet.com/wp-content/uploads/2017/03/BibFortuna_01.jpeg",
             "height": "180",
             "mass": "unknown",
             "hair_color": "none",
@@ -1300,7 +1300,7 @@
         },
         {
             "name": "Kit Fisto",
-            "image_icon": "https://vignette.wikia.nocookie.net/starwarsua/images/4/4c/Kit_Fisto_Card_Trader.png",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/4/4c/Kit_Fisto_Card_Trader.png",
             "image_detail": "https://lumiere-a.akamaihd.net/v1/images/databank_kitfisto_01_169_21517d01.jpeg",
             "height": "196",
             "mass": "87",
@@ -1479,7 +1479,7 @@
         {
             "name": "Gregar Typho",
             "image_icon": "https://pbs.twimg.com/media/D19yxjoW0AUvTqW.jpg",
-            "image_detail": "http://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_typho_1.jpg",
+            "image_detail": "https://i.pinimg.com/originals/a5/18/3d/a5183d15318acd1d917cd375cd067dd0.jpg",
             "height": "185",
             "mass": "85",
             "hair_color": "black",
@@ -1528,7 +1528,7 @@
         },
         {
             "name": "Cliegg Lars",
-            "image_icon": "http://tse3.mm.bing.net/th?id=OIP._4KzPJl3OWbvHwo1dDIjjwAAAA",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/36/ClieggLarsHS-SWE.jpg",
             "image_detail": "https://y.yarn.co/c4613b71-b23b-41ed-bb40-c11238834a00_thumb.jpg",
             "height": "183",
             "mass": "unknown",
@@ -1578,7 +1578,7 @@
         {
             "name": "Luminara Unduli",
             "image_icon": "https://vignette.wikia.nocookie.net/ru.starwars/images/b/ba/Luminarafull.jpg",
-            "image_detail": "https://external-preview.redd.it/N8L1ZLV8zh2Y_nZ_hCX9yxW_4PRdT7aMvwl6fdaZ7X0.jpg",
+            "image_detail": "https://i.skyrock.net/1918/14141918/pics/1025356184_small.jpg",
             "height": "170",
             "mass": "56.2",
             "hair_color": "black",
@@ -1625,7 +1625,7 @@
             "url": "https://swapi.co/api/people/65/"
         },
         {
-            "name": "Dorm�",
+            "name": "Dormé",
             "image_icon": "https://www.starwars-universe.com/images/encyclopedie/personnages/avatars_v6/Dorme_avatar.png",
             "image_detail": "https://pbs.twimg.com/media/CW2z35jXAAAzgQw.jpg",
             "height": "165",
@@ -1800,7 +1800,7 @@
         },
         {
             "name": "Taun We",
-            "image_icon": "http://4.bp.blogspot.com/-bYWGV2fFZ6g/WOEsUa-_N9I/AAAAAAAADhw/rJd1fNP8-sMe5tsidwW9SBHZm74tE2gsQCK4B/s1600/42393-25524.jpg",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/4/43/Taun_We.jpg",
             "image_detail": "https://starwarsanon.files.wordpress.com/2012/10/perso_we_taun_11.jpg",
             "height": "213",
             "mass": "unknown",
@@ -1824,7 +1824,7 @@
         },
         {
             "name": "Jocasta Nu",
-            "image_icon": "https://vignette.wikia.nocookie.net/lswfanon/images/a/a6/Jocasta_Nu.png",
+            "image_icon": "https://vignette.wikia.nocookie.net/fr.starwars/images/a/a6/Jocasta_Nu.png",
             "image_detail": "https://i0.wp.com/lumiere-a.akamaihd.net/v1/images/jocasta-nu_a3b32f08.jpeg",
             "height": "167",
             "mass": "unknown",
@@ -1896,7 +1896,7 @@
         {
             "name": "Wat Tambor",
             "image_icon": "https://vignette.wikia.nocookie.net/pt.starwars/images/3/30/Wat_Tambor.jpg",
-            "image_detail": "http://image.noelshack.com/fichiers/2015/38/1442433293-perso-tambor-wat.jpg",
+            "image_detail": "http://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_tambor_wat.jpg",
             "height": "193",
             "mass": "48",
             "hair_color": "none",
